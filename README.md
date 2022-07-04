@@ -20,5 +20,5 @@ pipeline compartments using VCAT from illumina or any vcf comparisioin tool.
 * Annovar
 # How to use
 * Create Sample List: 
-a simple text file list all fastq you need to analyze.
+a simple text file list all fastq sample's names you need to analyze.
 * How to run: as any shell script use ./name of the .sh file
