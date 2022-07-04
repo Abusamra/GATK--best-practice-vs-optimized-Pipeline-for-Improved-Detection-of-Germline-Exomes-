@@ -17,4 +17,8 @@ pipeline compartments using VCAT from illumina or any vcf comparisioin tool.
 * samtools
 * bcftools
 * picard-tools-2.2.1
+* Annovar
 # How to use
+* Create Sample List: 
+a simple text file list all fastq you need to analyze.
+* How to run: as any shell script use ./name of the .sh file
